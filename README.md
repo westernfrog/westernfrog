@@ -1,4 +1,4 @@
-# Hi 👋, I'm Aman Singh</h1>
+# Hi, I'm Aman Singh 👋👋
 <img src="westernfrog.jpg">
 
 
