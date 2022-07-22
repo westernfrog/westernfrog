@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aman Singh</h1>
-<h3 align="center">I code just to impress someone</h3>
+# Hi 👋, I'm Aman Singh</h1>
+<img src="https://ondemand.bannerbear.com/signedurl/9K5qxXae32jEAGRDkj/image.jpg?modifications=W3sibmFtZSI6InJlcG8iLCJ0ZXh0Ijoid2VzdGVybmZyb2cgLyAqd2VzdGVybmZyb2cqIn0seyJuYW1lIjoiZGVzYyIsInRleHQiOiJIaSEgSSdtIEFtYW4gU2luZ2gifSx7Im5hbWUiOiJhdmF0YXI1IiwiaGlkZSI6dHJ1ZX0seyJuYW1lIjoiYXZhdGFyNCIsImhpZGUiOnRydWV9LHsibmFtZSI6ImF2YXRhcjMiLCJoaWRlIjp0cnVlfSx7Im5hbWUiOiJhdmF0YXIyIiwiaGlkZSI6dHJ1ZX0seyJuYW1lIjoiYXZhdGFyMSIsImltYWdlX3VybCI6Imh0dHBzOi8vYXZhdGFycy5naXRodWJ1c2VyY29udGVudC5jb20vdS85NTkyMjM3MD92PTQifSx7Im5hbWUiOiJjb250cmlidXRvcnMiLCJ0ZXh0Ijoid2VzdGVybmZyb2cifSx7Im5hbWUiOiJzdGFycyIsInRleHQiOiIyIn1d&s=bbb89409282723b76bdfe9b50bc5d06e46136a072790adad327c41c2cd60a947">
 
 
