@@ -7,6 +7,8 @@ Presently, I am pursuing a bachleor degree in enginnering in computer science ğŸ
 
 ## Stalk me here ğŸŒ:
 - Instagram
+- Twitter
+- LinkedIn
 
 
 
