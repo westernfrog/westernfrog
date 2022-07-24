@@ -12,6 +12,6 @@ Currently, I am pursuing a bachleor degree in enginnering in computer science ğŸ
 - <a href="https://www.linkedin.com/in/amansingh123">LinkedIn</a> âœ¨
 
 <p align=center>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=westernfrog&layout=compact&theme=dark%22%20width=%22400%22">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=westernfrog&layout=compact&theme=tokyonight">
 </p>
 
