@@ -13,7 +13,7 @@ Currently, I am pursuing a bachleor degree in enginnering in computer science �
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=westernfrog&layout=compact&theme=tokyonight">
 </p>
 
- #### Stalk me here 🌏:
+ #### Stalk me here 🤫:
  ✨ <a href="https://www.instagram.com/iam__amansingh">Instagram</a> •
  <a href="https://twitter.com/iam__amansingh">Twitter</a> •
  <a href="https://www.linkedin.com/in/amansingh123">LinkedIn</a> ✨
