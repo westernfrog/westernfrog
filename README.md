@@ -1,10 +1,14 @@
 <img src="westernfrog.jpg" alt="a banner that shows my name">
 
 ## Hi, I'm Aman Singh👋🐸
+
 <p>I am a full stack developer and I enjoy creating things that live on the internet ✨.
 <br>
 
 Currently, I am pursuing a bachleor degree in enginnering in computer science 🧑‍💻. My main focus these days is to learn more about `Matter.js` and about building a `RESTful APIs`  🐷. I am always ready for new experience 🐥, meet new people 🐸 and learn new thing 🤩.</p>
+
+![](https://img.shields.io/static/v1?label=currently&message=online&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=westernfrog)
 
 ### My Skills 🧑‍💻:
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cpp,python,bootstrap,mongodb,expressjs,react,nodejs,git&perline=6)
