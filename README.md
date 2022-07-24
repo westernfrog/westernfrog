@@ -11,6 +11,7 @@ Currently, I am pursuing a bachleor degree in enginnering in computer science �
 - <a href="https://twitter.com/iam__amansingh">Twitter</a> ✨
 - <a href="https://www.linkedin.com/in/amansingh123">LinkedIn</a> ✨
 
-
-
+<p align=center>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=westernfrog&layout=compact&theme=dark%22%20width=%22400%22">
+</p>
 
