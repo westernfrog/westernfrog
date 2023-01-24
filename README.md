@@ -16,6 +16,10 @@ I am a Front-End Developer✨. Currently, I am pursuing a bachleor degree in eng
  <a href="https://twitter.com/iam__amansingh">Twitter</a> •
  <a href="https://www.linkedin.com/in/amansingh123">LinkedIn</a> ✨
  
+ ---
+ 
+### Support me by buying me a coffee! 
+<a href="https://www.buymeacoffee.com/amansinghme" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 
 
