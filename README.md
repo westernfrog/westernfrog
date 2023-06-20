@@ -2,7 +2,7 @@
 
 ## Hi, I'm Aman Singh 👋🐸
 
-I am a Front-End Developer✨. Currently, I am pursuing a bachleor degree in enginnering in computer science 🧑‍💻.I have my skills in Web Development and I started building sites since 3 years. I have an intermediate experience in `React.js`. My main focus these days is to learn more about `Three.js` 🐷. I am always ready for new experience 🐥, meet new people 🐸 and learn new thing 🤩.
+I am a Front-End Developer✨. Currently, I am pursuing a bachelor's degree in Engineering in Computer Science 🧑‍💻. I have skills in Web Development and have been building websites for the past 3 years. I have intermediate experience in React.js. These days, my main focus is to learn more about Three.js 🐷. I am always ready for new experiences 🐥, to meet new people 🐸, and to learn new things 🤩.
 
 ### 🧑‍💻 My Skills:
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cpp,python,next,bootstrap,mongodb,expressjs,react,nodejs&perline=6)
