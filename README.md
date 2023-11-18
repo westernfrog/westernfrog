@@ -5,16 +5,16 @@
 I am a Front-End Developer✨. Currently, I am pursuing a bachelor's degree in Engineering in Computer Science 🧑‍💻. I have skills in Web Development and have been building websites for the past 3 years using Nextjs. These days, my main focus is to learn more about Three.js 🐷. I am always ready for new experiences 🐥, to meet new people 🐸, and to learn new things 🤩.
 
 ### 🧑‍💻 My Skills:
-![My Skills](https://skillicons.dev/icons?i=html,css,js,python,next,react,redux,tailwind,mongodb,nodejs&perline=5)
+![My Skills](https://skillicons.dev/icons?i=next,react,tailwind,mongodb,firebase,supabase,redis,threejs)
 
 <p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=westernfrog&layout=compact&theme=tokyonight">
 </p>
 
  ### 🤫 Stalk me here:
- ✨ <a href="https://www.instagram.com/iam__amansingh">Instagram</a> •
- <a href="https://twitter.com/iam__amansingh">Twitter</a> •
- <a href="https://www.linkedin.com/in/amansingh123">LinkedIn</a> ✨
+ <a href="https://www.instagram.com/iam__amansingh">![Social](https://skillicons.dev/icons?i=instagram)</a>
+ <a href="https://twitter.com/iam__amansingh">![Social](https://skillicons.dev/icons?i=twitter)</a>
+ <a href="https://www.linkedin.com/in/amansingh123">![Social](https://skillicons.dev/icons?i=linkedin)</a>
  
 
 
