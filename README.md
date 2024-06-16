@@ -15,6 +15,8 @@ I am a Full-Stack Developer✨. Currently, I am pursuing a bachelor's degree in 
  <a href="https://www.instagram.com/iam__amansingh">![Social](https://skillicons.dev/icons?i=instagram)</a>
  <a href="https://twitter.com/iam__amansingh">![Social](https://skillicons.dev/icons?i=twitter)</a>
  <a href="https://www.linkedin.com/in/amansingh123">![Social](https://skillicons.dev/icons?i=linkedin)</a>
+
+![](https://komarev.com/ghpvc/?username=westernfrog)
  
 
 
