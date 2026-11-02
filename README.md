@@ -4,6 +4,12 @@
 
 I'm a Full-Stack Developer ✨ with a love for systems, networking and automation. I like to understand how things work underneath and then build my own solutions.
 
+### 🛠️ What I'm working on
+- 📡 Distributed Wi-Fi test automation across Linux and Windows clients
+- 📶 Wi-Fi 6 / Wi-Fi 7 performance testing (MLO, 320 MHz)
+- 📊 Real-time throughput dashboards and automated test reports
+- 🦀 Learning Rust for cross-platform desktop apps
+
 ### 🧑‍💻 Tech Stack
 ![My Skills](https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs,express,firebase,mongodb,postgres,cloudflare,docker,linux,js,ts,py,java,rust&perline=8)
 
