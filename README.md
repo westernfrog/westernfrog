@@ -2,24 +2,31 @@
 
 ## Hi, I'm Aman Singh 👋🐸
 
-I am a Full-Stack Developer✨. Currently, I am pursuing a bachelor's degree in Engineering in Computer Science 🧑‍💻. I have skills in Web Development and have been building websites for the past 3 years using Nextjs. These days, my main focus is to learn more about Redis 🐷. I am always ready for new experiences 🐥, to meet new people 🐸, and to learn new things 🤩.
+I'm a Full-Stack Developer at **WaveNxt Technologies** ✨. I like to understand how things work underneath (hardware, protocols, networks) and then build my own solutions on top. I'm always up for building products that can turn into real businesses 🚀.
 
-### 🧑‍💻 My Skills:
-![My Skills](https://skillicons.dev/icons?i=next,react,nodejs,tailwind,prisma,postgresql,mongodb,firebase,redis,javascript&perline=5)
+### 🛠️ What I'm working on
+- 📡 **MT-Stream**: a distributed Wi-Fi test orchestration platform that runs automated iperf3 TCP/UDP tests across 24+ Linux and Windows clients
+- 📶 Wi-Fi 6 / Wi-Fi 7 performance testing: MLO, 320 MHz channels, and monitor-mode packet capture
+- 📊 Real-time throughput dashboards (MongoDB change streams + Socket.io) and automated HTML, CSV and JSON reports
+- 🦀 Learning Rust for cross-platform desktop apps
+
+### 🧑‍💻 Tech Stack
+![My Skills](https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs,express,firebase,mongodb,postgres,cloudflare,docker,linux,js,ts,py,java,rust&perline=8)
+
+- **Frontend:** Next.js · React · Tailwind CSS · GSAP
+- **Backend:** Node.js · Express · Firebase
+- **Real-time:** Socket.io · WebSockets · WebRTC
+- **Databases:** MongoDB · PostgreSQL · Cloudflare D1
+- **Infra:** Linux · Docker · KVM · Cloudflare
+- **Networking:** TCP/IP · Wi-Fi · iperf3 · Linux networking
+- **Languages:** JavaScript · TypeScript · Python · Java · Rust
 
 <p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=westernfrog&layout=compact&theme=tokyonight">
 </p>
 
- ### 🤫 Stalk me here:
- <a href="https://www.instagram.com/iam__amansingh">![Social](https://skillicons.dev/icons?i=instagram)</a>
- <a href="https://www.linkedin.com/in/aman-singh123">![Social](https://skillicons.dev/icons?i=linkedin)</a>
+### 🤫 Stalk me here:
+<a href="https://www.instagram.com/iam__amansingh">![Social](https://skillicons.dev/icons?i=instagram)</a>
+<a href="https://www.linkedin.com/in/aman-singh123">![Social](https://skillicons.dev/icons?i=linkedin)</a>
 
 ![](https://komarev.com/ghpvc/?username=westernfrog)
- 
-
-
-
-
-
-
