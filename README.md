@@ -2,7 +2,7 @@
 
 ## Hi, I'm Aman Singh 👋🐸
 
-I'm a Full-Stack Developer ✨ with a love for systems, networking and automation. I like to understand how things work underneath and then build my own solutions.
+I am a Full-Stack Developer✨. Currently, I am pursuing a bachelor's degree in Engineering in Computer Science 🧑‍💻. I have skills in Web Development and have been building websites for the past 3 years using Nextjs. These days, my main focus is to learn more about Redis 🐷. I am always ready for new experiences 🐥, to meet new people 🐸, and to learn new things 🤩.
 
 ### 🛠️ What I'm working on
 - 📡 Distributed Wi-Fi test automation across Linux and Windows clients
